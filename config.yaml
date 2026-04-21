@@ -1,5 +1,5 @@
 cloud_id: <<Your Secret Key>>
 api_key: <<Your Secret Key>>
-mongodb_url: mongodb+srv://23je0186_db_user:987654321@cluster0.8sclbij.mongodb.net/?appName=Cluster0
-data_url: https://raw.githubusercontent.com/elastic/elasticsearch-js/main/docs/doc_examples/data/movies.json
-port: 5000
+mongodb_url: <<Your Secret Key>>
+data_url: <<Your Secret Key>>
+port:<<Your Secret Key>>
