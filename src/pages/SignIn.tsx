@@ -67,7 +67,7 @@ function SignIn() {
           break;
         case "auth/user-disabled":
           setErrorMessage(
-            "This email address is disabled by the administrator."
+            "This email address is disabled by the administrator.",
           );
           break;
         case "auth/user-not-found":
@@ -75,7 +75,7 @@ function SignIn() {
           break;
         case "auth/wrong-password":
           setErrorMessage(
-            "The password is invalid or the user does not have a password."
+            "The password is invalid or the user does not have a password.",
           );
           break;
         case "auth/invalid-credential":
@@ -90,7 +90,7 @@ function SignIn() {
 
   const registerUser = async (
     email: string | null,
-    userName: string | null
+    userName: string | null,
   ) => {
     const response = await fetch(`${import.meta.env.VITE_BASE_URL}/register`, {
       method: "POST",
@@ -139,7 +139,7 @@ function SignIn() {
           break;
         case "auth/wrong-password":
           setErrorMessage(
-            "The password is invalid or the user does not have a password."
+            "The password is invalid or the user does not have a password.",
           );
           break;
         case "auth/invalid-credential":
@@ -287,7 +287,7 @@ function SignIn() {
                 </span>
               </div>
             </div>
-
+            <div className="bg-red-500 text-white p-6">Tailwind is working</div>
             <div className="mt-6 flex justify-center">
               <button
                 type="button"
