@@ -138,7 +138,7 @@ const AdminPanel: React.FC = () => {
                             <th style={{ padding: '12px' }}>Title</th>
                             <th style={{ padding: '12px' }}>Author</th>
                             <th style={{ padding: '12px' }}>Genre</th>
-                            <th style={{ padding: '12px' }}>Popularity</th>
+                            <th style={{ padding: '12px' }}>popularity</th>
                         </tr>
                     </thead>
                     <tbody>
