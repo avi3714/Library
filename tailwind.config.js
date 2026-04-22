@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 export default {
-  content: ["./src/**/*.{html,js,ts,jsx,tsx}"],
+  content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
     extend: {
       colors: {
@@ -14,7 +14,7 @@ export default {
         blist: "#F8F8F2",
         tlist: "#F8F8F2",
         textcol: "#D1CFC9",
-        floatfont : "#dbd781"
+        floatfont: "#dbd781",
       },
     },
   },
