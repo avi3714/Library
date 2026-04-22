@@ -1,0 +1,8 @@
+cloud_id: "your_elasticsearch_cloud_id"
+api_key: "your_elasticsearch_api_key"
+
+mongodb_url: "mongodb://localhost:27017"
+
+data_url: "https://your-dataset-url"
+
+port: 5000
