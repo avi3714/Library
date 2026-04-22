@@ -658,5 +658,115 @@
         "publication_date": "2016-01-12",
         "edition": 1,
         "search_times": 0
-    }
+    },
+{
+    "title": "Introduction to Algorithms",
+    "author": ["Thomas H. Cormen", "Charles E. Leiserson", "Ronald L. Rivest", "Clifford Stein"],
+    "genre": "Computer Science",
+    "summary": "A comprehensive textbook covering a wide range of algorithms in depth.",
+    "ISBN-13": "9780262046305",
+    "publisher": "MIT Press",
+    "publication_date": "2022-04-05",
+    "edition": 4,
+    "search_times": 0
+},
+{
+    "title": "Computer Networks",
+    "author": ["Andrew S. Tanenbaum", "David J. Wetherall"],
+    "genre": "Technology",
+    "summary": "A foundational book explaining computer networking concepts and protocols.",
+    "ISBN-13": "9780133594140",
+    "publisher": "Pearson",
+    "publication_date": "2019-03-15",
+    "edition": 5,
+    "search_times": 0
+},
+{
+    "title": "Operating System Concepts",
+    "author": ["Abraham Silberschatz", "Peter B. Galvin", "Greg Gagne"],
+    "genre": "Computer Science",
+    "summary": "A detailed guide to operating system principles and design.",
+    "ISBN-13": "9781118063330",
+    "publisher": "Wiley",
+    "publication_date": "2018-01-01",
+    "edition": 10,
+    "search_times": 0
+},
+{
+    "title": "You Don't Know JS Yet",
+    "author": ["Kyle Simpson"],
+    "genre": "Programming",
+    "summary": "A deep dive into the core mechanisms of JavaScript.",
+    "ISBN-13": "9781098124045",
+    "publisher": "O'Reilly Media",
+    "publication_date": "2020-01-28",
+    "edition": 1,
+    "search_times": 0
+},
+{
+    "title": "Eloquent JavaScript",
+    "author": ["Marijn Haverbeke"],
+    "genre": "Programming",
+    "summary": "A modern introduction to programming using JavaScript.",
+    "ISBN-13": "9781593279509",
+    "publisher": "No Starch Press",
+    "publication_date": "2018-12-04",
+    "edition": 3,
+    "search_times": 0
+},
+{
+    "title": "The Hobbit",
+    "author": ["J.R.R. Tolkien"],
+    "genre": "Fantasy",
+    "summary": "A prelude to the Lord of the Rings, following Bilbo Baggins on an adventure.",
+    "ISBN-13": "9780547928227",
+    "publisher": "Houghton Mifflin Harcourt",
+    "publication_date": "1937-09-21",
+    "edition": 2,
+    "search_times": 0
+},
+{
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": ["J.K. Rowling"],
+    "genre": "Fantasy",
+    "summary": "The first book in the Harry Potter series, introducing the wizarding world.",
+    "ISBN-13": "9780590353427",
+    "publisher": "Scholastic",
+    "publication_date": "1997-06-26",
+    "edition": 1,
+    "search_times": 0
+},
+{
+    "title": "The Subtle Art of Not Giving a F*ck",
+    "author": ["Mark Manson"],
+    "genre": "Self-Help",
+    "summary": "A counterintuitive approach to living a good life by focusing on what truly matters.",
+    "ISBN-13": "9780062457714",
+    "publisher": "Harper",
+    "publication_date": "2016-09-13",
+    "edition": 1,
+    "search_times": 0
+},
+{
+    "title": "Rich Dad Poor Dad",
+    "author": ["Robert T. Kiyosaki"],
+    "genre": "Finance",
+    "summary": "A personal finance book that contrasts two approaches to money and investing.",
+    "ISBN-13": "9781612680194",
+    "publisher": "Plata Publishing",
+    "publication_date": "1997-04-01",
+    "edition": 2,
+    "search_times": 0
+},
+{
+    "title": "The 7 Habits of Highly Effective People",
+    "author": ["Stephen R. Covey"],
+    "genre": "Self-Help",
+    "summary": "A classic guide to personal and professional effectiveness.",
+    "ISBN-13": "9780743269513",
+    "publisher": "Free Press",
+    "publication_date": "1989-08-15",
+    "edition": 1,
+    "search_times": 0
+}
 ]
