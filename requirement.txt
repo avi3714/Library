@@ -1,6 +1,0 @@
-Flask
-flask-cors
-pymongo
-elasticsearch
-sentence-transformers
-PyYAML
