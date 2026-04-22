@@ -1,8 +1,5 @@
-cloud_id: "your_elasticsearch_cloud_id"
-api_key: "your_elasticsearch_api_key"
-
-mongodb_url: "mongodb://localhost:27017"
-
-data_url: "https://your-dataset-url"
-
+cloud_id: <<Your Secret Key>>
+api_key: <<Your Secret Key>>
+mongodb_url: mongodb+srv://23je0186_db_user:987654321@cluster0.8sclbij.mongodb.net/?appName=Cluster0
+data_url: https://raw.githubusercontent.com/elastic/elasticsearch-js/main/docs/doc_examples/data/movies.json
 port: 5000
